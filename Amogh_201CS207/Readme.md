@@ -19,3 +19,5 @@ Catboost gave the best Score with RMSE around 45,000.\
 ## ML Interest
 I have recently got into ML and I have a lot of interest in it. I want to go deeper into that field and explore more.
 I learnt about many of these models through a kaggle contest that I looked into. I also want to explore RL and more. Looking forward to this Sub yantra.
+
+PS. Sorry for the long Catboost output idk how to make it go away on github(was compressed and fine on my pc)
