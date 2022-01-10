@@ -18,5 +18,5 @@
 17. Repated the same procedure as Linear-Regression for evaluating the model. The results were much better. Narrow peaked bell curve of error and better linear scatter plot of target vs predicition were the inital indicators of the same. The R2 score of 82.4% was achieved which is considered very good. The Mean Errors observed were also lesser than that of LR. 
 18. I could have further optimized the model by tuning the hyper-paramters using gridsearchcv, but since the accuracy seemed pretty good, stopped with the model. It was a trade-off between the accuracy and time for training 
 
-###Interest in ML
+### Interest in ML
 Considering amount of data generated on a daily basis in various fields, it is very effective and interesting to have the computer analyze and make data-driven recommendations and decisions. Finding relationships between data and using it for predictions is very exciting. But for better results, larger datasets are required and processing it becomes humanly impossible. Also it is fascinating to build data-driven models that simulate the real world. Considering these I have been exploring the field for some time now and would love to go deeper. 
