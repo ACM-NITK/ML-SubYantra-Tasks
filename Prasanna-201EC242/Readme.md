@@ -5,3 +5,8 @@ About the Interest in the Field
 3) I want to explore more on RNN , LSTM and many more ...
 
 Approach to the Task 
+
+1) I had gone through the resoucres provided by the mentors ...numpy , pandas , matplotlib tutorial videos helped to make concepts strong which were moslty used in the intial part for data preprocessing (pandas)
+2) Separated the independent variables (parameters on which house price estimated) and dependent variable (House price)
+3) then using scikit learn library I splited the data into training data and testing data
+4) 
