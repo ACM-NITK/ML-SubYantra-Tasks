@@ -9,4 +9,6 @@ Approach to the Task
 1) I had gone through the resoucres provided by the mentors ...numpy , pandas , matplotlib tutorial videos helped to make concepts strong which were moslty used in the intial part for data preprocessing (pandas)
 2) Separated the independent variables (parameters on which house price estimated) and dependent variable (House price)
 3) then using scikit learn library I splited the data into training data and testing data
-4) 
+4) Fitted the X_train and y_train into the linear regression model and trained it 
+5) finaly used the test data to evaluate the model and compared the y_pred and y_test 
+6) calculated the minimum mean square error and various other accuracy metrics and plotted a graph with yaxis as predicted house price and x axis as original house price
