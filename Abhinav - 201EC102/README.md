@@ -18,3 +18,9 @@ in the data processing cycle.
 
 *** 
 
+Hello, I'm Abhinav R. I just got into introduced to the field of Machine Learning and it seemed really interesting -something I want to learn more about. 
+I have implemente whatever I learnt in the time I had. I'm going to watch a few more tutorials and keep making progress. 
+My code has also been extensively commented to explain what is exactly going on in the program. 
+***
+
+
